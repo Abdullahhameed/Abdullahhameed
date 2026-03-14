@@ -1,14 +1,10 @@
 > 🚨 I’m looking for a **Remote Laravel Developer** opportunity.
 
 
-# Hi there, I'm Neeraj Saini 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=haxneeraj&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/haxneeraj?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/haxneeraj?style=social)
+# Hi there, I'm Abdullah Hameed 👋
 
 ## 🚀 About Me
-I'm a **Senior Software Developer** with over 6+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
+I'm a **Senior Software Developer** with over 7+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
 
 - 💼 **Profession**: Senior Laravel Developer
 - 🌍 **Specialization**: 
@@ -23,12 +19,12 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
   - Monitoring and Logging
   - Security Best Practices
   - Continuous Integration/Continuous Deployment (CI/CD)
-- 🎯 **Experience**: 6+ years
+- 🎯 **Experience**: 7+ years
 
 
 ## Key Skills
 
-- **PHP & Laravel:** Proficient in developing and maintaining complex applications with the Laravel framework.
+- **PHP & Laravel:** Proficient in developing and maintaining complex applications with the Laravel framework and Nodejs.
   
 - **Front-End Development:** Experienced in HTML, CSS, JavaScript, and frameworks like Vue.js and React.
 
@@ -39,8 +35,6 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
 - **Version Control:** Competent in using Git for version control and team collaboration.
 
 - **Agile Methodologies:** Familiar with Agile, Scrum, and Kanban methodologies for effective project management.
-
-- **Waterfall Methodology:** Experienced in traditional Waterfall approach for structured project planning and execution.
 
 
 ## 👀 I'm Interested In...
