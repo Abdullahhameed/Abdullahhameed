@@ -75,10 +75,7 @@ I'm a **Senior Software Developer** with over 7+ years of hands-on experience in
 ![Ajax](https://img.shields.io/badge/Ajax-0e83cd?style=flat&logo=google-chrome&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white)
-
 
 
 ### 🧩 Backend  
