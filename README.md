@@ -107,29 +107,14 @@ I'm a **Senior Software Developer** with over 7+ years of hands-on experience in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haxneeraj&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxneeraj&theme=radical" width="49%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haxneeraj&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
-
 
 ## 📫 How to Reach Me
-- **Email**: hax-neeraj@outlook.com
+- **Email**: abdullahhameed66@gmail.com
 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hax-neeraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdullahbalti)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hax_neeraj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://haxneeraj.com)
 
